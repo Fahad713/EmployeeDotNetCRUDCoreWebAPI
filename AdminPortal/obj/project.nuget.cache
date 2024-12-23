@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zguQXKGoTk=",
+  "dgSpecHash": "sUl5C3o542E=",
   "success": true,
-  "projectFilePath": "D:\\internship-Fahad\\AspDotNet\\AdminPortal\\AdminPortal\\AdminPortal.csproj",
+  "projectFilePath": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\AdminPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eratech-Fahad\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Eratech-Fahad\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\internship-fahad\\aspdotnet\\employeedotnetcrudcorewebapi\\adminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|solutionrelative:adminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\internship-fahad\\aspdotnet\\employeedotnetcrudcorewebapi\\adminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|solutionrelative:adminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\internship-fahad\\aspdotnet\\employeedotnetcrudcorewebapi\\adminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|solutionrelative:adminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "AdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "AdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:24:34.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeDTO.cs",
+              "DocumentMoniker": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\AddEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "AdminPortal\\Models\\AddEmployeeDTO.cs",
+              "ToolTip": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\AddEmployeeDTO.cs",
+              "RelativeToolTip": "AdminPortal\\Models\\AddEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:24:24.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AdminPortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AdminPortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv1wAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:21:47.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

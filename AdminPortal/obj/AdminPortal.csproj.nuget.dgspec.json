@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\internship-Fahad\\AspDotNet\\AdminPortal\\AdminPortal\\AdminPortal.csproj": {}
+    "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\AdminPortal.csproj": {}
   },
   "projects": {
-    "D:\\internship-Fahad\\AspDotNet\\AdminPortal\\AdminPortal\\AdminPortal.csproj": {
+    "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\AdminPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\internship-Fahad\\AspDotNet\\AdminPortal\\AdminPortal\\AdminPortal.csproj",
+        "projectUniqueName": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\AdminPortal.csproj",
         "projectName": "AdminPortal",
-        "projectPath": "D:\\internship-Fahad\\AspDotNet\\AdminPortal\\AdminPortal\\AdminPortal.csproj",
+        "projectPath": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\AdminPortal.csproj",
         "packagesPath": "C:\\Users\\Eratech-Fahad\\.nuget\\packages\\",
-        "outputPath": "D:\\internship-Fahad\\AspDotNet\\AdminPortal\\AdminPortal\\obj\\",
+        "outputPath": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
