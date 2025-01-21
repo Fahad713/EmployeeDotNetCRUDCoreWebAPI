@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\",
+  "WorkspaceRootPath": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\internship-fahad\\aspdotnet\\employeedotnetcrudcorewebapi\\adminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\aspdotnetcore\\employeedotnetcrudcorewebapi\\adminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|solutionrelative:adminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\internship-fahad\\aspdotnet\\employeedotnetcrudcorewebapi\\adminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\aspdotnetcore\\employeedotnetcrudcorewebapi\\adminportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|solutionrelative:adminportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\aspdotnetcore\\employeedotnetcrudcorewebapi\\adminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|solutionrelative:adminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\internship-fahad\\aspdotnet\\employeedotnetcrudcorewebapi\\adminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|d:\\aspdotnetcore\\employeedotnetcrudcorewebapi\\adminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB6FB088-1F37-4451-B280-91B4F2087BF9}|AdminPortal\\AdminPortal.csproj|solutionrelative:adminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,43 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "AdminPortal\\Models\\Entities\\Employee.cs",
-              "ToolTip": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\Entities\\Employee.cs",
-              "RelativeToolTip": "AdminPortal\\Models\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T01:24:34.593Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AdminPortal\\appsettings.Development.json",
+              "ToolTip": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\appsettings.Development.json",
+              "RelativeToolTip": "AdminPortal\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T05:34:43.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "AdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "AdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:24:34.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AddEmployeeDTO.cs",
-              "DocumentMoniker": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\AddEmployeeDTO.cs",
+              "DocumentMoniker": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\AddEmployeeDTO.cs",
               "RelativeDocumentMoniker": "AdminPortal\\Models\\AddEmployeeDTO.cs",
-              "ToolTip": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\AddEmployeeDTO.cs",
+              "ToolTip": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Models\\AddEmployeeDTO.cs",
               "RelativeToolTip": "AdminPortal\\Models\\AddEmployeeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T01:24:24.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T01:24:24.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "AdminPortal\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\internship-Fahad\\AspDotNet\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\AspDotNetCore\\EmployeeDotNetCRUDCoreWebAPI\\AdminPortal\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "AdminPortal\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAADwv1wAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T01:21:47.459Z",
               "EditorCaption": ""
